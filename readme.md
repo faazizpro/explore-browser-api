@@ -54,3 +54,9 @@ Web Audio API
 WebRTC (Web Real-Time Communication) API
 HTML Media Element
 Media Capture and Streams API
+
+
+* 3 Types of Pop Up Box:
+    1. Alert
+    2. confirm
+    3. prompt
